@@ -15,7 +15,7 @@ With over 10 years of international experience as a professional musician, I bri
 
 
 ![Brad's Stats](https://github-readme-stats.vercel.app/api?username=bradacraig&theme=github_dark&show_icons=true&hide_border=false&count_private=true)
-![Brad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bradacraig&theme=github_dark&hide_border=false)
+![Brad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bradacraig&theme=github_dark_blue&hide_border=false)
 
 
 <!--
