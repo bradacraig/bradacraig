@@ -13,6 +13,8 @@ With over 10 years of international experience as a professional musician, I bri
 
 - InvoiceTime: A simple invoicing app to track time and generate invoices
 
+[![Brad's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradacraig)](https://github.com/bradacraig/github-readme-stats)
+
 
 <!--
 **bradacraig/bradacraig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
