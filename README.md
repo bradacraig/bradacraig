@@ -7,7 +7,7 @@ With over 10 years of international experience as a professional musician, I bri
 
  - TripHive: A travel iternary app
  - CodeQuest: A quiz to help practice basic javascript concepts
- - FullStack Todo: A fullstack todo list deployed with Dokku
+ - Shopping List: A shopping list app, customised for my local supermarket layout
 
 ### I'm currently working on:
 
